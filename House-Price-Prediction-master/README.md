@@ -3,6 +3,12 @@
 This project focuses on analyzing housing data and predicting house prices
 using data analytics and machine learning techniques.
 
+Key steps included:
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Regression-based machine learning model
+- Model evaluation and insights generation
+
 This project was completed as part of the Code With Harry Data Science Course.
 
 
@@ -49,3 +55,4 @@ This project was completed as part of the Code With Harry Data Science Course.
 - The trained model (`gbr.pkl`) is stored as a pickle file for future use or deployment.
 
 For any further inquiries or improvements, feel free to reach out.
+Author: Amaan Hasan Farooqi
