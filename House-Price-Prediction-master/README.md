@@ -12,10 +12,6 @@ Key steps included:
 This project was completed as part of the Code With Harry Data Science Course.
 
 
-## Kaggle Competition
-- Dataset: [House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
-- Model Score: 87.16% (R-squared score)
-
 ## File Structure
 - `house_price_prediction.ipynb`: Jupyter Notebook containing the code for data preprocessing, exploratory data analysis (EDA), feature engineering, model training, and prediction.
 - `submission.csv`: CSV file containing the predicted house prices for the test dataset.
